@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MultiProperties xmlns="hu.skzs.multiproperties">
+    <Version>1.2</Version>
+    <Name>pt_BR</Name>
+    <Description></Description>
+    <Handler>Java Properties Handler</Handler>
+    <Columns>
+        <Key>
+            <Width>200</Width>
+        </Key>
+        <Column>
+            <Name>Aceitar</Name>
+            <Description></Description>
+            <Width>150</Width>
+            <HandlerConfiguration>/Joel_Grefa - PDIG - Unidad1/src/idioma/messages_pt.properties|false|false|false|false|ISO-8859-1</HandlerConfiguration>
+        </Column>
+    </Columns>
+    <Records>
+        <Property>
+            <Name>ttbnok</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Aceitar</Value>
+        </Property>
+        <Property>
+            <Name>ttlblidioma</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Portugués</Value>
+        </Property>
+    </Records>
+</MultiProperties>
